@@ -1,2 +1,2 @@
-# LEETCODES
+# LEETCODE
  
